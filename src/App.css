@@ -1,0 +1,17 @@
+/* App Component Styles */
+#root {
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* Tailwind CSS is used for Header styling */
+/* This file can contain additional app-level styling */
+
+/* Responsive design helpers */
+@media (max-width: 768px) {
+  /* Mobile specific styles */
+}
+
+@media (min-width: 1024px) {
+  /* Desktop specific styles */
+}
